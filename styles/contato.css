@@ -22,7 +22,7 @@
     padding: 1em;
     border: 1px solid var(--azultitulo);
     border-radius: 24px;
-    width: 90%;
+    width: 80%;
     color: var(--azultitulo);
 
 }
@@ -30,7 +30,9 @@
     font-family: var(--fonte-princicpal);
     color: var(--azultitulo);
     background: url(../img/mail.svg)no-repeat;
-    padding: 2em;
+    padding: 1em ;
+    
+   
    
 }
 

@@ -99,4 +99,30 @@
     .opacao__botao{
         display: none;
     }
+    .divisao__rodape{
+        display: none;
+    }
+}
+
+@media screen and (min-width:1078px) {
+
+    .container__link{
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--preto);
+    }
+    .cabeçalho{
+        padding: 0 2em;   
+    }
+
+    .opcoes{
+        margin-right: auto;
+    }
+    .conato__email{
+        display: none;
+    }
+
+   
+    
 }
